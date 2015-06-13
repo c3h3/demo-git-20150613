@@ -1,2 +1,4 @@
 test
 w1
+solve it 
+prob2
